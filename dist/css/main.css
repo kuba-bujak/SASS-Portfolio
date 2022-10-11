@@ -46,7 +46,7 @@
 .menu-btn__burger::before {
   content: "";
   position: absolute;
-  top: -7px;
+  top: -8px;
   width: 28px;
   height: 3px;
   background: #fff;
